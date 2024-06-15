@@ -1,4 +1,4 @@
-# SpinalCordInjury https://zenodo.org/badge/513728372.svg
+# SpinalCordInjury [![DOI](https://zenodo.org/badge/513728372.svg)](https://zenodo.org/doi/10.5281/zenodo.11665031)
 
 <div align=left><img src="Figure 1 V11.jpg" width="1000"></div>  
   
